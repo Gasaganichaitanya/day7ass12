@@ -1,0 +1,7 @@
+D:\mphasis\assignments\day7\ass12\ConAppass12filehandling\ConAppass12filehandling\bin\Debug\ConAppass12filehandling.exe.config
+D:\mphasis\assignments\day7\ass12\ConAppass12filehandling\ConAppass12filehandling\bin\Debug\ConAppass12filehandling.exe
+D:\mphasis\assignments\day7\ass12\ConAppass12filehandling\ConAppass12filehandling\bin\Debug\ConAppass12filehandling.pdb
+D:\mphasis\assignments\day7\ass12\ConAppass12filehandling\ConAppass12filehandling\obj\Debug\ConAppass12filehandling.csproj.AssemblyReference.cache
+D:\mphasis\assignments\day7\ass12\ConAppass12filehandling\ConAppass12filehandling\obj\Debug\ConAppass12filehandling.csproj.CoreCompileInputs.cache
+D:\mphasis\assignments\day7\ass12\ConAppass12filehandling\ConAppass12filehandling\obj\Debug\ConAppass12filehandling.exe
+D:\mphasis\assignments\day7\ass12\ConAppass12filehandling\ConAppass12filehandling\obj\Debug\ConAppass12filehandling.pdb
